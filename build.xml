@@ -1,0 +1,5 @@
+<project name="IDE" default="greet" basedir=".">
+        <target name="greet">
+                <echo>Hello</echo>
+        </target>
+</project>
